@@ -2,7 +2,7 @@
  * exceptions.h
  *
  *  Created on: 07 gen 2019
- *      Author: Francesco
+ *      Author: Francesco Benedetti
  */
 
 #ifndef EXCEPTIONS_H_
