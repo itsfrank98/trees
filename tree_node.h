@@ -2,7 +2,7 @@
  * tree_node.h
  *
  *  Created on: 06 gen 2019
- *      Author: Francesco
+ *      Author: Francesco Benedetti
  */
 
 #ifndef TREE_NODE_H_
