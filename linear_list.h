@@ -2,7 +2,7 @@
  * linear_list.h
  *
  *  Created on: 06 gen 2019
- *      Author: Francesco
+ *      Author: Francesco Benedetti
  */
 
 #ifndef LINEAR_LIST_H_
