@@ -2,7 +2,7 @@
  * tree.h
  *
  *  Created on: 07 gen 2019
- *      Author: Francesco
+ *      Author: Francesco Benedetti
  */
 
 #ifndef TREE_H_
